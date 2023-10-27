@@ -8,7 +8,7 @@ pip install unittest
 pip install patch
 pip install Employee
 
-## donwload snippets.txt
+## Donwload File snippets.txt
 
 ## hasil print out test_employee
 ![img 1](implementasi2.png)
