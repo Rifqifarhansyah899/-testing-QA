@@ -1,6 +1,6 @@
 # -testing-QA
 UTS_rifqi farhansyah anshar_201011401636
-# implementasi pada terminal
-![Alt Text](implementasi.png)
+### hasil print out test_employee
+![img 1](implementasi 2.png)
 
 
