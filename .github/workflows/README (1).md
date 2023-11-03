@@ -11,7 +11,7 @@ UTS_rifqi farhansyah anshar_201011401636
 ![img 1](python.png)
 - kita bisa edit sesuai keinginan
 - setelah selesai pilih commit changes
-![img 2](raws run.png) 
+![img 2](rawsrun.png) 
 - akan tampil jika berhasil ada tanda ceklis
 ![img 3](berhasil.png)
 
