@@ -8,7 +8,7 @@ UTS_rifqi farhansyah anshar_201011401636
 - pilih menu Action
 - pilih python application
 - pilih configure
-![img 2](python.png)
+![img 2](PythonApplication.png)
 - kita bisa edit sesuai keinginan
 - setelah selesai pilih commit changes
 ![img 3](rawsrun.png) 
