@@ -8,11 +8,11 @@ UTS_rifqi farhansyah anshar_201011401636
 - pilih menu Action
 - pilih python application
 - pilih configure
-![img 1](python.png)
+![img 2](python.png)
 - kita bisa edit sesuai keinginan
 - setelah selesai pilih commit changes
-![img 2](rawsrun.png) 
+![img 3](rawsrun.png) 
 - akan tampil jika berhasil ada tanda ceklis
-![img 3](berhasil.png)
+![img 1](berhasil.png)
 
 
